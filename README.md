@@ -1,4 +1,4 @@
-# Unity 2D Adventure Game
+# Tiles Adventure Game
 
 Welcome to our exciting Unity 2D Adventure Game repository! This game is designed with three levels of increasing difficulty, featuring a challenging quiz at the end of the third level. Players will navigate through the levels, shooting bullets to eliminate enemies and collecting points to boost their scores.
 
