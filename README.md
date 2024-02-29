@@ -42,6 +42,9 @@ Our Unity 2D Adventure Game is a thrilling experience that takes players through
 
 5. **Quiz:**
    - Prepare for a quiz at the end of the third level. Correct answers boost your final score.
+  
+6. Lifelines
+You start with three lifelines. Lifelines are reduced by one when an enemy kills you or you come in contact with spikes/obstacles. Use them wisely to avoid restarting the level.
 
 
 Game Components
