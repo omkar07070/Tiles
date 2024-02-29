@@ -44,6 +44,15 @@ Our Unity 2D Adventure Game is a thrilling experience that takes players through
    - Prepare for a quiz at the end of the third level. Correct answers boost your final score.
 
 
+Game Components
+The game utilizes several components, each implemented in C#:
+
+PlayerController: Manages player movement and shooting.
+EnemyController: Controls enemy behavior and interactions.
+LevelManager: Handles level progression and difficulty scaling.
+PointCollector: Manages point collection and scoring.
+QuizManager: Implements the quiz system with multiple-choice questions.
+
 
 ## screenshots*
 
