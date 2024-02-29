@@ -54,10 +54,16 @@ PointCollector: Manages point collection and scoring.
 QuizManager: Implements the quiz system with multiple-choice questions.
 
 
-## screenshots*
+## screenshots
 
-![Quiz](/screenshots/quiz.png)
-*Caption: The challenging quiz at the end of Level 3.*
+![Screenshot (170)](https://github.com/omkar07070/Tiles/assets/150511938/272c887c-d9a1-4eb9-a3ff-91f649506774)
+![Screenshot (171)](https://github.com/omkar07070/Tiles/assets/150511938/283f8357-1c3a-446c-a9a3-85883dedd124)
+![Screenshot (172)](https://github.com/omkar07070/Tiles/assets/150511938/4bff0785-33dd-4ed0-8967-7f1ed7c6a27f)
+![Screenshot (174)](https://github.com/omkar07070/Tiles/assets/150511938/a95500cb-1a9b-47ad-83fa-515b34094006)
+![Screenshot (175)](https://github.com/omkar07070/Tiles/assets/150511938/73a2641d-8410-4427-b709-ef571413039c)
+
+
+
 
 
 
